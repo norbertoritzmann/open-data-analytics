@@ -13,6 +13,10 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+	
+	<modules>
+		<module>machine-learning</module>
+	</modules>
 
 	<dependencies>
 		<dependency>
@@ -22,8 +26,5 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<modules>
-		<module>machine-learning</module>
-	</modules>
 
 </project>
